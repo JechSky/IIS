@@ -1,0 +1,18 @@
+C:\Users\jechsky\Documents\visual studio 2017\Projects\IIS\IIS\bin\Debug\IISFormForFun.exe.config
+C:\Users\jechsky\Documents\visual studio 2017\Projects\IIS\IIS\bin\Debug\IISFormForFun.exe
+C:\Users\jechsky\Documents\visual studio 2017\Projects\IIS\IIS\bin\Debug\IISFormForFun.pdb
+C:\Users\jechsky\Documents\visual studio 2017\Projects\IIS\IIS\obj\Debug\IIS.csprojResolveAssemblyReference.cache
+C:\Users\jechsky\Documents\visual studio 2017\Projects\IIS\IIS\obj\Debug\IISFormForFun.IISFormForFun.resources
+C:\Users\jechsky\Documents\visual studio 2017\Projects\IIS\IIS\obj\Debug\IISFormForFun.Properties.Resources.resources
+C:\Users\jechsky\Documents\visual studio 2017\Projects\IIS\IIS\obj\Debug\IIS.csproj.GenerateResource.Cache
+C:\Users\jechsky\Documents\visual studio 2017\Projects\IIS\IIS\obj\Debug\IISFormForFun.exe
+C:\Users\jechsky\Documents\visual studio 2017\Projects\IIS\IIS\obj\Debug\IISFormForFun.pdb
+F:\c#练习\IIS\IIS\bin\Debug\IISFormForFun.exe.config
+F:\c#练习\IIS\IIS\bin\Debug\IISFormForFun.exe
+F:\c#练习\IIS\IIS\bin\Debug\IISFormForFun.pdb
+F:\c#练习\IIS\IIS\obj\Debug\IIS.csprojResolveAssemblyReference.cache
+F:\c#练习\IIS\IIS\obj\Debug\IISFormForFun.IISFormForFun.resources
+F:\c#练习\IIS\IIS\obj\Debug\IISFormForFun.Properties.Resources.resources
+F:\c#练习\IIS\IIS\obj\Debug\IIS.csproj.GenerateResource.Cache
+F:\c#练习\IIS\IIS\obj\Debug\IISFormForFun.exe
+F:\c#练习\IIS\IIS\obj\Debug\IISFormForFun.pdb
